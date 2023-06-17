@@ -5,6 +5,7 @@ This repository contains Jupyter notebooks on simple Python concepts with exampl
 
 - `Intro_lab1.ipynb`: Covers variables,data types, operators, comments and print() in Python.
 - `Intro_lab2.ipynb`: Covers input(), int(), float(), str(), boolean expressions, logical operators, and conditional execution in Python.
+-  `Exercise1.ipynb`: Simple python examples and scenarios
 
 
 ## Requirements
